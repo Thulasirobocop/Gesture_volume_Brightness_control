@@ -12,8 +12,8 @@ The "Pycaw" library has a method called <b>"volume.SetMasterVolumeLevel()"</b> b
 We find the minimum and maximum range of the volume and then we map the distance value with minimum and maximum range of the volume<br>
 Then depending upon the distance, the speaker volume is adjusted.
 ## Output image when volume is high 
-<image src="images/volume_high.PNG" width=500><br> 
+<image src="images/volume_high.jpeg" width=500><br> 
 ## Output image when volume is low 
-<image src="images/volume_low.PNG" width=500><br> 
+<image src="images/volume_low.jpeg" width=500><br> 
 
 
