@@ -1,5 +1,5 @@
 # Gesture_volume_Brighness_control
-The main objective of the <b>"Gesture_volume_control"</b>  project is automation.<br>
+The main objective of the <b>"Gesture_volume_Brightness_control"</b>  project is automation.<br>
 This is a computer vision project that automatically  adjusts the speaker volume using hand gestures.<br>
 MediaPipe is a cross-platform framework for building multimodal applied machine learning models using the data avaliable in audio and video format.<br>
 The model detects and tracks all the fingers by using the <b>"hand_tracking.py"</b>,and the code in this file is written in modular format so that it can be used anywhere by just calling it.<br>
